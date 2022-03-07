@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JetpackColumn</string>
+    <string name="image_content_desc">"Coil Image from url "</string>
+</resources>
